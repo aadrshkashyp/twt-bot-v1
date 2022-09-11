@@ -1,0 +1,17 @@
+{
+  "name": "twt-vot",
+  "version": "1.0.0",
+  "description": "twt bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+},
+  "author": "aadarsh kashyap",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^2.1.0",
+    "dotenv": "^16.0.2",
+    "twit": "^2.2.11"
+  }
+  
+}
