@@ -1,5 +1,5 @@
-const animeQuotes = function () {
-  this.QUOTES = [
+const randomTweet = function () {
+  this.TWEET = [
     "I'm not going to die. I'm going to live forever, or die trying - Goku",
     "I'm not going to let you die. I'm going to save you. - Naruto",
     "A Lannister always pays his debts -Tyrion Lannister",
@@ -8,4 +8,4 @@ const animeQuotes = function () {
   ];
 };
 
-module.exports = new animeQuotes();
+module.exports = new randomTweet();
