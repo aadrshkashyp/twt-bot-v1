@@ -4,6 +4,9 @@ To automate my tweeting, I created a simple Twitter bot to tweet at 8 AM, 4 PM, 
 
 ## Video Tutorial
 
+<iframe width="813" height="475" src="https://www.youtube.com/embed/Md7XjOJz9-o" title="If you're too busy to Tweet frequently, I made a Twitter Bot just for you!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## API Reference
 
 https://developer.twitter.com/en/docs/twitter-api
